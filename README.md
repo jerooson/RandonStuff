@@ -1,2 +1,1 @@
-# myfirst
-my firstgit project
+Place for RandomStuff
